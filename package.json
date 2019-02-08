@@ -1,0 +1,15 @@
+{
+  "name": "cooptools",
+  "version": "1.0.0",
+  "description": "spawns cat when viewer joins channel chat, kills cat when they leave",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "coop",
+  "license": "ISC",
+  "dependencies": {
+    "modern-rcon": "^1.0.3",
+    "streamhook": "^1.0.3"
+  }
+}
